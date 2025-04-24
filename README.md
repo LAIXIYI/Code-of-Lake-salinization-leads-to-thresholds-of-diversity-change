@@ -12,7 +12,7 @@ Part4_Detect possible thresholds of macroinvertebrate diversity;
 
 Part5_Beta diversity analysis and relative abundance of various groups.
 
-#Paper code_<Salinity thresholds shape global patterns of freshwater biodiversity>
+#Paper code
 
 #Author: Xiyi Lai
 
