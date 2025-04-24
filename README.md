@@ -1,10 +1,15 @@
 # Code-of-Lake-salinization-leads-to-thresholds-of-diversity-change
 This is a description of the code used in my study "Salinity thresholds shape global patterns of freshwater biodiversity". In this section I detail all the code used in the analysis, as well as the relevant data. 
 A total of five parts of the content, corresponding to five different documents, any questions please contact the emali:
+
 Part1_Effect-controlled diversity calculation;
+
 Part2_Location of lakes used in the paper;
+
 Part3_Spearman correlation analysis and random forest model;
+
 Part4_Detect possible thresholds of macroinvertebrate diversity;
+
 Part5_Beta diversity analysis and relative abundance of various groups.
 
 #Paper code_<Salinity thresholds shape global patterns of freshwater biodiversity>
